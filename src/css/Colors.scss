@@ -1,0 +1,43 @@
+$themeColor: #f65f1f;
+$pageBackground: #fff;
+$lightButtonColor: #ffffff;
+$lightButtonBorderColor: #a0a0a0;
+$lightButtonColorHover: #f1f1f1;
+
+$pageBackground: #232323;
+$blockBg: #161717;
+$smallblockBg: #353535;
+$backgroundLight: #232323;
+$backgroundDark: #090300;
+
+$white: #fff;
+$white-1: #c9c8c5;
+$white-2: #cacaca;
+$white-8: #cacaca;
+// $blue: #1f88fe;
+$blue: #0b84d5;
+$red: #eb5757;
+$green: #27ae60;
+$yellow: #ffd167;
+$black: #171717;
+$zero: #363636;
+
+$borderColor: #cacaca;
+$borderColor-1: #cacaca;
+$borderColor-2: #393939;
+
+.color {
+  color: $themeColor;
+}
+.black {
+  color: $black;
+}
+.blue {
+  color: $blue;
+}
+.red {
+  color: $red;
+}
+.yellow {
+  color: $yellow;
+}
